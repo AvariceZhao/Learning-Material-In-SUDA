@@ -1,0 +1,520 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6b2d61f7-20a1-415f-8c5d-9b05a52630a5" name="变更" comment="">
+      <change afterPath="$PROJECT_DIR$/../2021hackthon/4B[LZK]U}MK3(S3Q~U13H3V.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021hackthon/C2M1S1{Y[`JKK_J96}T)32O.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021hackthon/D32YDKVL}MW}SNREW7P}L~V.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021hackthon/H45)ZGRBXIMMVJM)`U{JH(V.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021hackthon/M1)37C`~1)%)H$W6]JLJLK4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021hackthon/THANK YOU.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021hackthon/Terraria.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021hackthon/break_bricks.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021hackthon/snake.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021hackthon/snake.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021hackthon/turtle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021hackthon/俄罗斯方块连连看.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021hackthon/吐舌.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021hackthon/猫猫.rar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python课件/PPT/01-引言.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python课件/PPT/02-python基础知识.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python课件/PPT/03-列表基础.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python课件/PPT/04-列表复制和分片.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python课件/PPT/05-列表应用.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python课件/PPT/06-选择结构.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python课件/PPT/07-循环.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python课件/PPT/08-流程设计与优化.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python课件/PPT/09-综合应用举例.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python课件/PPT/10-函数基础.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python课件/PPT/11-函数的参数.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python课件/PPT/12-考试训练.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python课件/PPT/13-深入理解函数.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python课件/PPT/14-函数进阶.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python课件/PPT/15-常用内置函数.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python课件/PPT/16-元组、集合和字典.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python课件/PPT/17-字符串基础.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python课件/PPT/18-字符串格式化及应用.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python课件/PPT/PyCharm起步之HelloWorld.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python课件/例程/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python课件/例程/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python课件/例程/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python课件/例程/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python课件/例程/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python课件/例程/.idea/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python课件/例程/.idea/例程.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python课件/例程/01/01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python课件/例程/01/02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python课件/例程/02/01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python课件/例程/02/02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python课件/例程/02/03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python课件/例程/02/04.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python课件/例程/02/05.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python课件/例程/02/06.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python课件/例程/02/12345--67890.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python课件/例程/03/01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python课件/例程/03/02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python课件/例程/03/03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python课件/例程/03/04.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python课件/例程/03/05.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python课件/例程/03/06.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python课件/例程/04/01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python课件/例程/04/02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python课件/例程/04/03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python课件/例程/04/04.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python课件/例程/04/05.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python课件/例程/04/06.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python课件/例程/04/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python课件/例程/05/01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python课件/例程/05/02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python课件/例程/05/03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python课件/例程/05/04.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python课件/例程/05/05.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python课件/例程/05/06.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python课件/例程/06/01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python课件/例程/06/02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python课件/例程/06/03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python课件/例程/06/04.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python课件/例程/06/05.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python课件/例程/06/06.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python课件/例程/07/01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python课件/例程/07/02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python课件/例程/07/03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python课件/例程/07/04.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python课件/例程/07/05.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python课件/例程/07/06.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python课件/例程/07/07.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python课件/例程/07/08.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python课件/例程/07/09.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python课件/例程/08/01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python课件/例程/08/02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python课件/例程/08/03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python课件/例程/08/04.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python课件/例程/08/05.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python课件/例程/09/01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python课件/例程/09/02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python课件/例程/09/03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python课件/例程/09/04.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python课件/例程/09/05.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python课件/例程/10/01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python课件/例程/10/02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python课件/例程/10/03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python课件/例程/10/04.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python课件/例程/10/05.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python课件/例程/10/m1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python课件/例程/10/m2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python课件/例程/10/m3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python课件/例程/10/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python课件/例程/11/01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python课件/例程/11/02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python课件/例程/11/03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python课件/例程/11/04.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python课件/例程/11/05.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python课件/例程/11/06.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python课件/例程/11/07.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python课件/例程/11/08.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python课件/例程/11/09.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python课件/例程/11/10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python课件/例程/11/11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python课件/例程/12/01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python课件/例程/12/02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python课件/例程/13/01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python课件/例程/13/02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python课件/例程/13/03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python课件/例程/13/04.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python课件/例程/13/05.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python课件/例程/13/06.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python课件/例程/13/07.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python课件/例程/13/08.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python课件/例程/13/09.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python课件/例程/14/01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python课件/例程/14/02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python课件/例程/14/03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python课件/例程/14/04.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python课件/例程/14/05.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python课件/例程/14/06.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python课件/例程/14/07.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python课件/例程/14/08.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python课件/例程/14/09.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python课件/例程/14/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python课件/例程/15/01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python课件/例程/15/02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python课件/例程/15/03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python课件/例程/15/04.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python课件/例程/15/05.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python课件/例程/15/06.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python课件/例程/15/07.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python课件/例程/15/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python课件/例程/16/01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python课件/例程/16/02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python课件/例程/16/03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python课件/例程/16/04.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python课件/例程/16/05.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python课件/例程/16/06.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python课件/例程/16/07.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python课件/例程/17/01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python课件/例程/17/02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python课件/例程/17/03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python课件/例程/17/04.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python课件/例程/18/01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python课件/例程/18/02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python课件/例程/18/03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python课件/例程/18/04.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python课件/例程/18/05.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python课件/例程/18/06.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python课件/例程/18/07.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python课件/例程/18/08.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python课件/例程/18/09.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python课件/例程/18/10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python课件/教学进度表.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebMaze/01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebMaze/code.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebMaze/color.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebMaze/getcolors.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebMaze/test1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebMaze/新建文本文档.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/.idea/code.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/Python习题.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/RE/1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/RE/2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/RE/4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/习题20211119.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/作业答案.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/教学进度表20211114.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/正则表达式练习.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/第七章/86.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/第七章/87.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/第七章/88.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/第七章/89.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/第七章/90.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/第七章/91.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/第七章/92.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/第七章/93.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/第七章/fib.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/第七章/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/第三章/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/第三章/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/第三章/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/第三章/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/第三章/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/第三章/.idea/第三章.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/第三章/2127405037.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/第三章/3.01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/第三章/3.02!.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/第三章/3.03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/第三章/3.04.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/第三章/3.05.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/第三章/3.06.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/第三章/3.07.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/第三章/3.08.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/第三章/3.09.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/第三章/3.10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/第三章/3.11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/第三章/3.12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/第三章/3.13.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/第三章/3.14.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/第三章/3.15.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/第三章/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/第九章/1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/第九章/109.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/第九章/110.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/第九章/111.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/第九章/112.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/第九章/113!!!.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/第九章/114.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/第九章/115.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/第九章/116.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/第九章/117.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/第九章/118.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/第九章/119.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/第九章/120.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/第九章/121.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/第九章/122.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/第九章/2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/第九章/3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/第九章/4.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/第九章/5.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/第九章/Folder/merge.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/第九章/Folder/text1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/第九章/Folder/text2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/第九章/Folder/text3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/第九章/Folder/text4.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/第九章/Names.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/第九章/Numbers.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/第九章/Sort.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/第九章/StrInts.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/第九章/article.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/第九章/cat1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/第九章/cat2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/第九章/config.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/第九章/copy.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/第九章/data1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/第九章/data2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/第九章/file1/data - 副本 (10).txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/第九章/file1/data - 副本 (2).txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/第九章/file1/data - 副本 (3).txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/第九章/file1/data - 副本 (4).txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/第九章/file1/data - 副本 (5).txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/第九章/file1/data - 副本 (6).txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/第九章/file1/data - 副本 (7).txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/第九章/file1/data - 副本 (8).txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/第九章/file1/data - 副本 (9).txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/第九章/file1/data - 副本.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/第九章/file1/data.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/第九章/file1/新建文件夹1/data1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/第九章/file1/新建文件夹1/新建文件夹3/data31.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/第九章/file1/新建文件夹2/21.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/第九章/filenames.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/第九章/largefile.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/第九章/log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/第九章/new.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/第九章/new_article.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/第九章/new_config.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/第九章/new_word.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/第九章/question80.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/第九章/students_5.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/第九章/students_data.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/第九章/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/第九章/test1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/第九章/test2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/第九章/test3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/第九章/test4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/第九章/try.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/第九章/word.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/第二章/2.01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/第二章/2.02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/第二章/2.03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/第二章/2.04.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/第二章/2.05.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/第二章/2.06.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/第二章/2.07.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/第二章/2.08.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/第二章/2.09.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/第二章/2.10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/第二章/2.11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/第二章/2.12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/第二章/2.13.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/第二章/2.14.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/第二章/2.15.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/第二章/2.16.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/第二章/2.17.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/第二章/2.18.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/第二章/2.19.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/第二章/2.20.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/第五章/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/第五章/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/第五章/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/第五章/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/第五章/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/第五章/.idea/第五章.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/第五章/5.01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/第五章/5.02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/第五章/5.03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/第五章/5.04.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/第五章/5.05.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/第五章/5.06.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/第五章/5.07.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/第五章/5.08.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/第五章/5.09.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/第五章/5.10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/第五章/5.11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/第五章/5.12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/第五章/5.13.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/第五章/5.14!.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/第五章/5.15.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/第五章/5.16.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/第五章/5.17.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/第五章/5.18.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/第五章/5.19.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/第五章/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/第五章/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/第八章/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/第八章/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/第八章/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/第八章/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/第八章/.idea/第八章.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/第八章/100.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/第八章/101.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/第八章/102.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/第八章/103!!!.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/第八章/104.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/第八章/105.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/第八章/106.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/第八章/107.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/第八章/108.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/第八章/94.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/第八章/95.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/第八章/96.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/第八章/97.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/第八章/98.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/第八章/99.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/第八章/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/第六章/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/第六章/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/第六章/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/第六章/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/第六章/.idea/第六章.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/第六章/6.01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/第六章/6.02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/第六章/6.03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/第六章/6.04.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/第六章/6.05.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/第六章/6.06.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/第六章/6.07.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/第六章/6.08.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/第六章/6.09.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/第六章/6.10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/第六章/6.11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/第六章/6.12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/第六章/6.13.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/第六章/82.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/第六章/83.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/第六章/84.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/第六章/85.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/第六章/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/第十章/123.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/第十章/124.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/第十章/125.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/第十章/log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/第十章/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/第四章/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/第四章/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/第四章/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/第四章/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/第四章/.idea/第四章.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/第四章/4.01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/第四章/4.02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/第四章/4.03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/第四章/4.04.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/第四章/4.05.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/第四章/4.06!!!.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/第四章/4.07.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/第四章/4.08.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/第四章/4.09.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/第四章/4.10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/第四章/4.11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/第四章/4.12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/第四章/4.13.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/第四章/4.14！.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/第四章/4.15.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/第四章/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/第四章/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode/1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode/26.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode/28.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/实验1 Python程序设计基础.doc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/实验2 列表.doc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/实验3 选择结构程序设计.doc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/实验4 循环结构程序设计.doc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/实验5 函数.doc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/实验6 元组、字典与集合.doc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/实验7 字符串与正则表达式.doc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/实验8 文件操作.doc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/实验报告模板/实验1 Python程序设计基础.doc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/实验报告模板/实验2 列表.doc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/实验报告模板/实验3 选择结构程序设计.doc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/实验报告模板/实验4 循环结构程序设计.doc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/实验报告模板/实验5 函数.doc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/实验报告模板/实验6 元组、字典与集合.doc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/实验报告模板/实验7 字符串与正则表达式.doc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/实验报告模板/实验8 文件操作.doc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/实验报告系统使用手册（学生）.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../往年考试/2016-02.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../往年考试/2016-3.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../往年考试/2017-3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../往年考试/2018-3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../往年考试/2019-2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../往年考试/2019-2/1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../往年考试/2019-2/2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../往年考试/2019-2/3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../往年考试/2019-2/4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../往年考试/2019-2/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../往年考试/2019.3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../往年考试/2020-2-v2.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../往年考试/2020-2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../往年考试/Python 2017-3.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../往年考试/Python/Python作业.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../往年考试/Python/Python历年考试.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../往年考试/Python/Python课件.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../往年考试/Python/python之正则表达式大全_Findingxu的博客-CSDN博客_正则表达式语法大全python.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../往年考试/Python/python选择题.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../往年考试/Python2017-1.doc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../往年考试/Python2017-2.doc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../往年考试/Python2018-1.doc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../往年考试/Python2018-2.doc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../往年考试/Python2018-3.doc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../往年考试/Python2019-1.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../往年考试/Python2019-2.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../往年考试/Python2019-3.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../往年考试/python选择题/习题1.doc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../往年考试/python选择题/习题10.doc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../往年考试/python选择题/习题11.doc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../往年考试/python选择题/习题12.doc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../往年考试/python选择题/习题13.doc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../往年考试/python选择题/习题2.doc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../往年考试/python选择题/习题3.doc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../往年考试/python选择题/习题4.doc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../往年考试/python选择题/习题5.doc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../往年考试/python选择题/习题6.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../往年考试/python选择题/习题7.doc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../往年考试/python选择题/习题8.doc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../往年考试/python选择题/习题9.doc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../往年考试/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../杂/PY选择题.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../杂/class.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../杂/python学习手册.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../杂/python笔记.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../杂/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../杂/thread.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../杂/thread2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../杂/turtle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../考试/2021.11.23模拟考/2127405037.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../考试/2021.11.23模拟考/gold.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../考试/2021.11.23模拟考/python.doc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../考试/2021.11.23模拟考/sample.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../考试/2021.11.24阶段化考试一/2021-1.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../考试/2021.11.24阶段化考试一/2127405037.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../考试/2021.12.22阶段化考试二/2021-2.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../考试/2021.12.22阶段化考试二/sample.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="23K7qAPtNV7TkrJL3SCtAry7p9G" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../leetcode" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="6b2d61f7-20a1-415f-8c5d-9b05a52630a5" name="变更" comment="" />
+      <created>1641471118237</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1641471118237</updated>
+      <workItem from="1641471119312" duration="19000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
