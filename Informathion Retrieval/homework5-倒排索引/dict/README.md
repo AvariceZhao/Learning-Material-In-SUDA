@@ -1,0 +1,1 @@
+词典文件来自 [结巴分词](https://github.com/fxsjy/jieba)，若要使用，请注明来源。
