@@ -1,6 +1,5 @@
 #include<bits/stdc++.h>
 using namespace std;
-
 class Ccomplex{
 	private:
 		double m_real;
