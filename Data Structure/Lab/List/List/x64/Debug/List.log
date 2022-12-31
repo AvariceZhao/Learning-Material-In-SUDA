@@ -1,0 +1,7 @@
+﻿  main.cpp
+F:\Study\#Computer Science\Data Structure\Lab\List\List\BigNum.hpp(39,3): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+F:\Study\#Computer Science\Data Structure\Lab\List\List\BigNum.hpp(47,3): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+F:\Study\#Computer Science\Data Structure\Lab\List\List\BigNum.hpp(159,2): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+F:\Study\#Computer Science\Data Structure\Lab\List\List\BigNum.hpp(128): warning C4715: “BigNum::operator-”: 不是所有的控件路径都返回值
+F:\Study\#Computer Science\Data Structure\Lab\List\List\BigNum.hpp(102): warning C4715: “BigNum::operator+”: 不是所有的控件路径都返回值
+  List.vcxproj -> F:\Study\#Computer Science\Data Structure\Lab\List\List\x64\Debug\List.exe

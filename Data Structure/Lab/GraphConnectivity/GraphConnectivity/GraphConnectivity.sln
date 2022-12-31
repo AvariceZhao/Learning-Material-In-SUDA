@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GraphConnectivity", "GraphConnectivity.vcxproj", "{495444BC-DCBA-44DF-AC74-CACEF57C1D64}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{495444BC-DCBA-44DF-AC74-CACEF57C1D64}.Debug|x64.ActiveCfg = Debug|x64
+		{495444BC-DCBA-44DF-AC74-CACEF57C1D64}.Debug|x64.Build.0 = Debug|x64
+		{495444BC-DCBA-44DF-AC74-CACEF57C1D64}.Debug|x86.ActiveCfg = Debug|Win32
+		{495444BC-DCBA-44DF-AC74-CACEF57C1D64}.Debug|x86.Build.0 = Debug|Win32
+		{495444BC-DCBA-44DF-AC74-CACEF57C1D64}.Release|x64.ActiveCfg = Release|x64
+		{495444BC-DCBA-44DF-AC74-CACEF57C1D64}.Release|x64.Build.0 = Release|x64
+		{495444BC-DCBA-44DF-AC74-CACEF57C1D64}.Release|x86.ActiveCfg = Release|Win32
+		{495444BC-DCBA-44DF-AC74-CACEF57C1D64}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {38FCE09D-1E7A-46F1-8E3E-0AFEA0EFCFE6}
+	EndGlobalSection
+EndGlobal

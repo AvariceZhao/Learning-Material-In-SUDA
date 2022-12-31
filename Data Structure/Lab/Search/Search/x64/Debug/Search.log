@@ -1,0 +1,7 @@
+﻿  SearchList.cpp
+F:\Study\#Computer Science\Data Structure\Lab\Search\Search\SearchList.cpp(11,23): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+F:\Study\#Computer Science\Data Structure\Lab\Search\Search\SearchList.cpp(46,27): warning C4554: “>>”: 检查运算符优先级是否存在的可能的错误；使用括号阐明优先级
+F:\Study\#Computer Science\Data Structure\Lab\Search\Search\SearchList.cpp(64,24): warning C4554: “>>”: 检查运算符优先级是否存在的可能的错误；使用括号阐明优先级
+  main.cpp
+  正在生成代码...
+  Search.vcxproj -> F:\Study\#Computer Science\Data Structure\Lab\Search\Search\x64\Debug\Search.exe
